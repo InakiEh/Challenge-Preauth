@@ -1,3 +1,3 @@
 # Challenge-Preauth
 
-Inside the folder Game 1 and Game 2 are the solutions of the challenge.
+Inside the folder game-01 and game-02 are the solutions of the challenge.
